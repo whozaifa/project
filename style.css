@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Open+Sans:wght@300;400;600;700&family=Poppins:wght@300;400;500;600&family=Quicksand:wght@300&display=swap');
+
+.BackGround_of_pdf{
+    background-image: url('./Background.jpg');
+}
+
+.navbar ul {
+    position: absolute;
+    left: -920px;
+    top: 0px;
+    display: flex;
+    list-style: none;
+    padding: 1rem;
+}
+
+.navbar ul li {
+    margin: 0 5rem;
+}
+
+.navbar ul a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+
+}
+
+.navbar ul a:hover {
+    color: #676767;
+}
+
+.container_of_pdf{
+    height: 680px;
+    width: 1425px;
+    margin-top: 70px;
+    
+}
+
+.container {
+    height: 700px;
+    width: 350px;
+    background-color:transparent;
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    border:2px solid white;
+
+}
+
+.Login {
+    position: relative;
+    top: 0px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    color: #ffffff;
+}
+
+.Username {
+    position: relative;
+    top: -0px;
+    left: -110px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+
+}
+
+.Input_Username {
+    width: 290px;
+    height: 30px;
+    position: relative;
+    top: -10px;
+    left: 15px;
+    background-color:transparent;
+    border: none;
+    border-bottom: 2px solid #D1D1D4;
+}
+
+.Password {
+    position: relative;
+    top: 35px;
+    left: -110px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.Input_Password {
+    width: 290px;
+    height:30px;
+    position: relative;
+    top: 28px;
+    left: 15px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #D1D1D4;
+}
+
+.forgot {
+    height: 30px;
+    width: 250px;
+    border: 2px solid white;
+    position: relative;
+    background-color:transparent;
+    top: 60px;
+    left: 50px;
+    cursor: pointer;
+
+}
+
+.LOGIN {
+    height: 40px;
+    width: 300px;
+    border: none;
+    position: relative;
+    background-color: transparent;
+    top: 65px;
+    left: 0px;
+    cursor: pointer;
+    border: 2px solid white;
+
+}
+
+.LOGIN_SIGNUP_TEXT {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    position: relative;
+    top: -13px;
+    font-size: 20px;
+    font-weight: 900;
+    text-indent: 5;
+    color: aliceblue;
+    cursor: pointer;
+
+}
+
+.SIGNUP {
+    height: 40px;
+    width: 300px;
+    border: none;
+    position: relative;
+    background-color: transparent;
+    top: 285px;
+    left: 0px;
+    cursor: pointer;
+    border: 2px solid white;
+
+}
+
+.Input_Username_1 {
+    width: 400px;
+    height: 50px;
+    position: relative;
+    top: 15px;
+    left: 15px;
+    border: 5px solid white;
+}
+
+
